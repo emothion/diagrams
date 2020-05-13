@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T09:19:29.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="UJJIQjO7k5q5LWAc5NT5" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-13T09:23:01.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="wlo8W4JaTIn-CGpX3Gsd" version="13.1.1" type="github">
   <diagram id="8C6d7smwfxW90fpyZ9yR" name="第 1 页">
     <mxGraphModel dx="1422" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,11 +51,11 @@
           <mxGeometry x="390" y="580" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cC0HDWYqVScPVjVDO2Yd-63" value="根据案例Id和回放集&lt;br&gt;群名称获取回放数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.15;exitY=0.95;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3399FF;fontSize=11;fontColor=#000000;exitPerimeter=0;" edge="1" parent="1" source="cC0HDWYqVScPVjVDO2Yd-64" target="cC0HDWYqVScPVjVDO2Yd-60">
-          <mxGeometry x="0.1291" relative="1" as="geometry">
+          <mxGeometry x="-0.2107" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="526" y="480" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cC0HDWYqVScPVjVDO2Yd-64" value="数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=29;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
@@ -65,7 +65,7 @@
           <mxGeometry x="100" y="10" width="160" height="270" as="geometry" />
         </mxCell>
         <mxCell id="cC0HDWYqVScPVjVDO2Yd-66" value="执行模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="400" width="70" height="20" as="geometry" />
+          <mxGeometry x="100" y="310" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cC0HDWYqVScPVjVDO2Yd-67" value="回放模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="720" width="50" height="20" as="geometry" />
@@ -170,11 +170,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cC0HDWYqVScPVjVDO2Yd-86" value="保存回放日志" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.85;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cC0HDWYqVScPVjVDO2Yd-87" target="cC0HDWYqVScPVjVDO2Yd-64">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.1415" relative="1" as="geometry">
             <mxPoint x="670" y="280" as="targetPoint" />
             <Array as="points">
               <mxPoint x="614" y="540" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cC0HDWYqVScPVjVDO2Yd-87" value="回放结果任务处理子流程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -185,7 +186,7 @@
         </mxCell>
         <mxCell id="cC0HDWYqVScPVjVDO2Yd-89" value="更新子任务执行状态为&lt;br&gt;资源失效，待重新分配" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cC0HDWYqVScPVjVDO2Yd-88">
           <mxGeometry x="0.014" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="66" as="offset" />
+            <mxPoint x="1" y="-38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cC0HDWYqVScPVjVDO2Yd-90" value="更新任务表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">

@@ -1,1 +1,264 @@
-<mxfile host="app.diagrams.net" modified="2020-05-13T08:02:30.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="exwXg56kGVYa-G211OJu" version="13.1.1" type="github"><diagram id="8C6d7smwfxW90fpyZ9yR" name="第 1 页">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-13T08:14:11.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="Dd4ah3S4xg92MD1GgsQr" version="13.1.1" type="github">
+  <diagram id="8C6d7smwfxW90fpyZ9yR" name="第 1 页">
+    <mxGraphModel dx="1422" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-42" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="820" width="600" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-45" value="接收回放&lt;br&gt;结果数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" target="ZYR6mgEAjWnbd_dMBprN-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="1095" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="80" y="290" width="560" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="80" y="640" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-2" value="生成回放数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#3399FF;fontSize=11;fontColor=#000000;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-4" target="ZYR6mgEAjWnbd_dMBprN-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="440" />
+              <mxPoint x="420" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-3" value="根据自己的collectorId，agentId，获取回放任务，并修改执行状态为执行中" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-4" target="ZYR6mgEAjWnbd_dMBprN-8" edge="1">
+          <mxGeometry x="0.5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-39" value="通过agentId&lt;br&gt;获取连接" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-4" target="ZYR6mgEAjWnbd_dMBprN-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-4" value="接收回放任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="380" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-35" value="链接资源下发数据失败" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-5" target="ZYR6mgEAjWnbd_dMBprN-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-5" value="按照资源和案例配发回放数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="380" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-6" value="根据案例Id和回放集&lt;br&gt;群名称获取回放数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.15;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3399FF;fontSize=11;fontColor=#000000;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-7" target="ZYR6mgEAjWnbd_dMBprN-4" edge="1">
+          <mxGeometry x="0.1291" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="307" />
+              <mxPoint x="550" y="380" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-7" value="数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontSize=29;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="680" y="290" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-8" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;任务执行列表&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;任务ID&lt;br&gt;子任务ID1&lt;br&gt;traceid1&lt;br&gt;timestamp&lt;br&gt;回放集群名称&lt;br&gt;collector1&lt;br&gt;执行状态&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;任务ID&lt;br&gt;子任务ID2&lt;br&gt;traceid2&lt;br&gt;timestamp&lt;br&gt;回放集群名称&lt;br&gt;collector2&lt;br&gt;执行状态&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;overflow=fill;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="340" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-10" value="执行模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="300" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-11" value="回放模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="650" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-12" value="实例1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="150" y="655" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-24" value="回放结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.067;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-13" target="ZYR6mgEAjWnbd_dMBprN-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-13" value="实例2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="260" y="655" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-26" value="回放结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-14" target="ZYR6mgEAjWnbd_dMBprN-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-14" value="实例3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="373.5" y="655" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-27" value="回放结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.067;entryY=0.095;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-15" target="ZYR6mgEAjWnbd_dMBprN-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-15" value="……" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="490" y="655" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-5" target="ZYR6mgEAjWnbd_dMBprN-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="620" />
+              <mxPoint x="414" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-5" target="ZYR6mgEAjWnbd_dMBprN-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="620" />
+              <mxPoint x="530" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-5" target="ZYR6mgEAjWnbd_dMBprN-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="620" />
+              <mxPoint x="300" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-21" value="下发回放数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZYR6mgEAjWnbd_dMBprN-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.4667" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="32" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-5" target="ZYR6mgEAjWnbd_dMBprN-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="520" />
+              <mxPoint x="400" y="600" />
+              <mxPoint x="190" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-20" value="实例离线下发失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZYR6mgEAjWnbd_dMBprN-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.0411" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-22" target="ZYR6mgEAjWnbd_dMBprN-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="735" />
+              <mxPoint x="680" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-30" value="发回回放结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZYR6mgEAjWnbd_dMBprN-29" vertex="1" connectable="0">
+          <mxGeometry x="0.0729" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-22" value="回放结果任务发回队列" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="150" y="720" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-31" value="保存回放结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-28" target="ZYR6mgEAjWnbd_dMBprN-7" edge="1">
+          <mxGeometry x="-0.7073" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-32" value="回放完成更新子任务执行状态" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-28" edge="1">
+          <mxGeometry x="0.56" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="480" />
+              <mxPoint x="810" y="80" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="500" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-56" value="保存回放日志" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-28" target="ZYR6mgEAjWnbd_dMBprN-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-28" value="回放结果任务处理子流程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="500" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-34" target="ZYR6mgEAjWnbd_dMBprN-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-37" value="更新子任务执行状态为资源失效，待重新分配" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZYR6mgEAjWnbd_dMBprN-36" vertex="1" connectable="0">
+          <mxGeometry x="0.014" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-34" value="更新任务表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="130" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-38" target="ZYR6mgEAjWnbd_dMBprN-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="460" />
+              <mxPoint x="420" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-41" value="提供下发连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZYR6mgEAjWnbd_dMBprN-40" vertex="1" connectable="0">
+          <mxGeometry x="-0.0696" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-38" value="连接在&lt;br&gt;线列表" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="220" y="340" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-47" value="保存回放结果到数据库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZYR6mgEAjWnbd_dMBprN-46" vertex="1" connectable="0">
+          <mxGeometry x="0.0375" y="-24" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-49" value="更新回放进度" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-44" target="ZYR6mgEAjWnbd_dMBprN-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-44" value="接收回放结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1080" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-51" value="保存回放进度日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZYR6mgEAjWnbd_dMBprN-50" vertex="1" connectable="0">
+          <mxGeometry x="-0.1418" y="-2" relative="1" as="geometry">
+            <mxPoint x="87" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-48" target="ZYR6mgEAjWnbd_dMBprN-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="1095" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-48" value="回放进度" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="310" y="1065" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-54" value="否：更新子任务时间戳&lt;br&gt;表示collector未发生一次" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-52" edge="1">
+          <mxGeometry x="-0.617" relative="1" as="geometry">
+            <mxPoint x="290" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="870" />
+              <mxPoint x="290" y="870" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-55" value="是：更新子任务&lt;br&gt;状态表示完成" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="ZYR6mgEAjWnbd_dMBprN-52" edge="1">
+          <mxGeometry x="-0.662" y="-35" relative="1" as="geometry">
+            <mxPoint x="290" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="985" />
+              <mxPoint x="190" y="868" />
+              <mxPoint x="290" y="868" />
+            </Array>
+            <mxPoint x="-35" y="-35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZYR6mgEAjWnbd_dMBprN-52" value="回放是否完成" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="250" y="945" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
